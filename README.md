@@ -15,4 +15,4 @@ What Drives Me:
 I aim to solve complex biological problems through an integrative approach. Having experience in both wet lab DNA analysis and computational bioinformatics tools, I am motivated to improve the efficiency and quality of bioscience research. 
 I am currently preparing for my next chapter: pursuing a Master’s degree to further specialize in bioinformatics and contribute to global research efforts.
 
-- 📫 Contact me:  [LinkedIn](https://linkedin.com/in/syedmuhammadalishirazi) | [Gmail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=shirazi6503@gmail.com)
+- 📫 Contact me:  [LinkedIn](https://linkedin.com/in/syedmuhammadalishirazi) | [Gmail](mailto:shirazi6503@gmail.com)| [Website](https://alishirazi03.github.io/)
